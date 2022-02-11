@@ -2,7 +2,7 @@
 %global appid fi.skyjake.Lagrange
 
 Name:           lagrange
-Version:        1.10.4
+Version:        1.10.5
 Release:        %autorelease
 Summary:        A Beautiful Gemini Client
 
