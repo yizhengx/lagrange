@@ -15,6 +15,8 @@ BuildRequires:  cmake
 BuildRequires:  gcc
 BuildRequires:  pkgconfig(fribidi)
 BuildRequires:  pkgconfig(harfbuzz)
+BuildRequires:  pkgconfig(libmpg123)
+BuildRequires:  pkgconfig(libwebp)
 BuildRequires:  pkgconfig(sdl2)
 BuildRequires:  pkgconfig(the_Foundation)
 # for checks
